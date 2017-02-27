@@ -11,7 +11,7 @@ const React = require('react');
 // component is simple presentation component,
 // then can use stateless functional component
 
-const About = (props) => {
+const About = () => {
     return (
         <div>
             <h3>About</h3>
